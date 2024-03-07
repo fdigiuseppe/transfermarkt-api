@@ -4,13 +4,15 @@ This project provides a lightweight and easy-to-use interface for extracting dat
 by applying web scraping processes and offering a RESTful API service via FastAPI. With this service, developers can 
 seamlessly integrate Transfermarkt data into their applications, websites, or data analysis pipelines.
 
+Versione forkata e modificata per adeguamento a transfermark.it con traduzioni in italiano e personalizzazioni per ecosistema ntfy tfl.
+
 Please note that the deployed application is used only for testing purposes and has a rate limiting 
 feature enabled. If you'd like to customize it, consider hosting in your own cloud service. 
 
-### API Swagger
-https://transfermarkt-api.vercel.app/
+<!-- ### API Swagger
+https://transfermarkt-api.vercel.app/ -->
 
-### Running Locally
+<!-- ### Running Locally
 
 ````bash
 # Clone the repository
@@ -33,7 +35,7 @@ $ python app/main.py
 
 # Access the API local page
 $ open http://localhost:8000/
-````
+```` -->
 
 ### Running via Docker
 
